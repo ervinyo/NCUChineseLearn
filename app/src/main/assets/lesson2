@@ -1,0 +1,251 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<chinesechars>
+	<chinesechar>
+		<tone>2</tone>
+		<character>您</character>
+		<pinyin>nín</pinyin>
+		<mean>you (polite form)</mean>
+		<clue>-</clue>
+			<use>您好 Nín hǎo(hello you)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>3</tone>
+		<character>早</character>
+		<pinyin>zǎo</pinyin>
+		<mean>Good Morning</mean>
+		<clue>-</clue>
+			<use>您早 Nín Zǎo (good morning you)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>3</tone>
+		<character>你</character>
+		<pinyin>nǐ</pinyin>
+		<mean>you (male)</mean>
+		<clue>tegak diawal</clue>
+			<use>你好 Nǐ hǎo(hello you)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>3</tone>
+		<character>妳</character>
+		<pinyin>nǐ</pinyin>
+		<mean>you (female)</mean>
+		<clue>ruwet diawal</clue>
+			<use>好 Nǐ hǎo(hello you)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>3</tone>
+		<character>好</character>
+		<pinyin>hǎo</pinyin>
+		<mean>good/hello</mean>
+		<clue>-</clue>
+			<use>好 Nǐ hǎo(hello you)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>對</character>
+		<pinyin>duì</pinyin>
+		<mean>correct</mean>
+		<clue>-</clue>
+			<use>對不起 Duìbùqǐ (sorry)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>不</character>
+		<pinyin>bù</pinyin>
+		<mean>no</mean>
+		<clue>-</clue>
+			<use>不謝 Bù xiè (don't mention it)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>3</tone>
+		<character>起</character>
+		<pinyin>qǐ</pinyin>
+		<mean>start</mean>
+		<clue>-</clue>
+			<use>對不起 Duìbùqǐ (sorry)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>2</tone>
+		<character>沒</character>
+		<pinyin>méi</pinyin>
+		<mean>no</mean>
+		<clue>-</clue>
+			<use>沒關係 Méiguānxì (That's alright)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>1</tone>
+		<character>關</character>
+		<pinyin>guān</pinyin>
+		<mean>turn off</mean>
+		<clue>-</clue>
+			<use>沒關係 Méiguānxì (That's alright)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>係</character>
+		<pinyin>xì</pinyin>
+		<mean>system</mean>
+		<clue>-</clue>
+			<use>沒關係 Méiguānxì (That's alright)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>謝</character>
+		<pinyin>xiè</pinyin>
+		<mean>thank</mean>
+		<clue>-</clue>
+			<use>謝謝 Xièxiè (Thank you)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>客</character>
+		<pinyin>kè</pinyin>
+		<mean>customer</mean>
+		<clue>-</clue>
+			<use>不客氣 Bù kèqì (you're welcome)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>氣</character>
+		<pinyin>qì</pinyin>
+		<mean>air</mean>
+		<clue>-</clue>
+			<use>不客氣 Bù kèqì (you're welcome)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>再</character>
+		<pinyin>zài</pinyin>
+		<mean>again</mean>
+		<clue>-</clue>
+			<use>再見 Zàijiàn (goodbye)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>見</character>
+		<pinyin>jiàn</pinyin>
+		<mean>see</mean>
+		<clue>-</clue>
+			<use>再見 Zàijiàn (goodbye)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>3</tone>
+		<character>請</character>
+		<pinyin>qǐng</pinyin>
+		<mean>please</mean>
+		<clue>-</clue>
+			<use>請 Qǐng (please)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>3</tone>
+		<character>等</character>
+		<pinyin>děng</pinyin>
+		<mean>wait</mean>
+		<clue>-</clue>
+			<use>等一下 Děng yī xià (wait a moment)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>1</tone>
+		<character>一</character>
+		<pinyin>yī</pinyin>
+		<mean>one</mean>
+		<clue>garis strip</clue>
+			<use>等一下 Děng yī xià (wait a moment)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>下</character>
+		<pinyin>xià</pinyin>
+		<mean>under</mean>
+		<clue>mirip huruf T besar</clue>
+			<use>等一下 Děng yī xià (wait a moment)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>3</tone>
+		<character></character>
+		<pinyin></pinyin>
+		<mean></mean>
+		<clue>mirip huruf T besar</clue>
+			<use>等一下 Děng yī xià (wait a moment)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>問</character>
+		<pinyin>wèn</pinyin>
+		<mean>ask</mean>
+		<clue>-</clue>
+			<use>沒問題 Méi wèntí (no problem)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>2</tone>
+		<character>題</character>
+		<pinyin>tí</pinyin>
+		<mean>question</mean>
+		<clue>-</clue>
+			<use>沒問題 Méi wèntí (no problem)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>3</tone>
+		<character>怎</character>
+		<pinyin>zěn</pinyin>
+		<mean>how</mean>
+		<clue>-</clue>
+			<use>怎麼了 Zěnme le (what is the matter ?)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>0</tone>
+		<character>麼</character>
+		<pinyin>me</pinyin>
+		<mean>what</mean>
+		<clue>-</clue>
+			<use>怎麼了 Zěnme le (what is the matter ?)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>0</tone>
+		<character>了</character>
+		<pinyin>le</pinyin>
+		<mean>the</mean>
+		<clue>-</clue>
+			<use>怎麼了 Zěnme le (what is the matter ?)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>事</character>
+		<pinyin>shì</pinyin>
+		<mean>thing</mean>
+		<clue>-</clue>
+			<use>沒事兒 Méi shì er (Nothing)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>0</tone>
+		<character>兒</character>
+		<pinyin>er</pinyin>
+		<mean>child</mean>
+		<clue>seperti gurita</clue>
+			<use>沒事兒 Méi shì er (Nothing)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>1</tone>
+		<character>知</character>
+		<pinyin>zhī</pinyin>
+		<mean>know</mean>
+		<clue>orang dorong kulkas</clue>
+			<use>知道 Zhīdào (to know/to understand)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>4</tone>
+		<character>道</character>
+		<pinyin>dào</pinyin>
+		<mean>road</mean>
+		<clue>-</clue>
+			<use>知道 Zhīdào (to know/to understand)</use>
+	</chinesechar>
+	<chinesechar>
+		<tone>3</tone>
+		<character>我</character>
+		<pinyin>Wǒ</pinyin>
+		<mean>I/me</mean>
+		<clue>-</clue>
+			<use>我不知道 Wǒ bù Zhīdào (I/me no understand/know)</use>
+	</chinesechar>																																																							
+</chinesechars>
